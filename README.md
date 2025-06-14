@@ -1,8 +1,11 @@
 **🪨📄✂️ Rock-Paper-Scissors Game**
+
 🎯 Project Overview
 The Rock-Paper-Scissors Game is a simple Python-based console application that lets users play the classic game against the computer. This project is ideal for beginners learning Python and practicing basic concepts like conditionals, loops, functions, and random number generation.
 
+
 **🔧 Features**
+
 User vs Computer gameplay
 
 Input validation to avoid incorrect entries
