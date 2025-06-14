@@ -6,66 +6,60 @@ The Rock-Paper-Scissors Game is a simple Python-based console application that l
 
 **🔧 Features**
 
-User vs Computer gameplay
+     User vs Computer gameplay
 
-Input validation to avoid incorrect entries
+     Input validation to avoid incorrect entries
 
-Replays until the user quits
+    Replays until the user quits
 
-Console-based UI with clear instructions
+     Console-based UI with clear instructions
 
-Uses Python's built-in random module for computer decisions
+     Uses Python's built-in random module for computer decisions
 
 **🛠 Technologies Used**
-Language: Python 3.x
+      Language: Python 3.x
 
-Modules: random (standard library)
+      Modules: random (standard library)
 
 **▶️ How to Run**
-Make sure Python is installed on your machine.
-Run python --version or python3 --version to verify.
+      Make sure Python is installed on your machine.
+      Run python --version or python3 --version to verify.
 
-Save the code in a file named rock_paper_scissors.py.
+      Save the code in a file named rock_paper_scissors.py.
 
-**Run the game:
-**
-bash
-Copy
-Edit
-python rock_paper_scissors.py
+**Run the game:**
+
+     python rock_paper_scissors.py
 **💡 Game Rules**
-Rock beats Scissors
+     Rock beats Scissors
 
-Scissors beats Paper
+     Scissors beats Paper
 
-Paper beats Rock
+     Paper beats Rock
 
-If both player and computer choose the same option, it’s a tie.
+     If both player and computer choose the same option, it’s a tie.
+
 
 **👀 Sample Output**
-yaml
-Copy
-Edit
+  
 **🎮 Welcome to Rock-Paper-Scissors!
 **
-Choices: rock, paper, scissors
-Enter your choice: rock
+     Choices: rock, paper, scissors
+     Enter your choice: rock
 
-You chose: rock
-Computer chose: scissors
-You win!
+     You chose: rock
+     Computer chose: scissors
+     You win!
 
-Do you want to play again? (yes/no): no
-Thanks for playing! 👋
+     Do you want to play again? (yes/no): no
+     Thanks for playing! 👋
 **📁 Project Structure**
-bash
-Copy
-Edit
-rock_paper_scissors.py     # Main game file
-README.md                  # This documentation file
+   
+     rock_paper_scissors.py     # Main game file
+     README.md                  # This documentation file
 **📌 Future Enhancements (Optional)**
-Add a GUI version using Tkinter
+     Add a GUI version using Tkinter
 
-Implement score tracking across rounds
+     Implement score tracking across rounds
 
-Add multiplayer support (local or networked)
+     Add multiplayer support (local or networked)
